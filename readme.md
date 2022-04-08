@@ -18,7 +18,7 @@
 ### Other Fort Wayne TV Stations
 
 |TV Station|Title|Linkedin Contact|Email|Phone|Station Contact Info|
------------|-----|----------------|-----|-----|
+-----------|-----|----------------|-----|-----|--------------------|
 |CBS Channel WANE 15|Janet Huff, News Director|[Linkedin](linkedin.com/in/jenna-huff-5131a646)||260-481-1515|[About Us](https://www.wane.com/about-us/)|
 |NBC Channel WPTA 21|Jonathan Shelly, News Director|[Linkedin](https://www.wane.com/about-us/)|[jshelley@wpta21.com](mailto:jshelley@wpta21.com)|260-483-8111|[Contact Us](https://www.wp ta21.com/about- us/contact-us/)|
 |WFFT FOX 55|Andy Paras, News Director|[Linkedin Contact](linkedin.com/in/andyparas)|[aparas@wfft.com](mailto:aparas@wfft.com)|260-408-WFFT|[news@wfft.com](mailto:news@wfft.com), [Contact Form](https://www.wfft.com/contact/)|
@@ -59,6 +59,6 @@ Fort Wayne has over 125 miles of biking and treking trails. They go through the 
 |TV Station|Title|Linkedin Contact|Email|Phone|Station Contact Info|
 -----------|-----|----------------|-----|-----|--------------------|
 |WNDU NBC 16|No Current News Dir.|none|[news@wsbt.com](mailtonews@wsbt.com)|574-284-3016|[Station Contact](https://wsbt.com/station/contact)|
-|WSBT CBS 22 (Mishwawak/South Bend)|Meg Sauer, News Director|[Linkedin](https://www.linkedin.com/in/meg-sauer-24a33117/)|574-247-7749|[Contact Form](https://wsbt.com/stations/contact), [wsbtnews@wsbt.com](wsbtnews@wsbt.com)|
+|WSBT CBS 22 (Mishwawak/South Bend)|Meg Sauer, News Director|[Linkedin](https://www.linkedin.com/in/meg-sauer-24a33117/)|574-247-7749|[Contact Form](https://wsbt.com/stations/contact), Email: [wsbtnews@wsbt.com](wsbtnews@wsbt.com)|
 
 - [Notre Dame Cycling Club](https://recsports.nd.edu/club-sports/coed-club-sports/coed-cycling/) A coed competition cycling team that competes in the  Midwest Collegiate Cycling Conference.
