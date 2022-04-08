@@ -20,7 +20,7 @@
 |TV Station|Title|Linkedin Contact|Email|Phone|Station Contact Info|
 -----------|-----|----------------|-----|-----|--------------------|
 |CBS Channel WANE 15|Janet Huff, News Director|[Linkedin](linkedin.com/in/jenna-huff-5131a646)||260-481-1515|[About Us](https://www.wane.com/about-us/)|
-|NBC Channel WPTA 21|Jonathan Shelly, News Director|[Linkedin](https://www.wane.com/about-us/)|[jshelley@wpta21.com](mailto:jshelley@wpta21.com)|260-483-8111|[Contact Us](https://www.wp ta21.com/about- us/contact-us/)|
+|NBC Channel WPTA 21|Jonathan Shelly, News Director|[Linkedin](https://www.wane.com/about-us/)|[jshelley@wpta21.com](mailto:jshelley@wpta21.com)|260-483-8111|[Contact Us](https://www.wpta21.com/about-us/contact-us/)|
 |WFFT FOX 55|Andy Paras, News Director|[Linkedin Contact](linkedin.com/in/andyparas)|[aparas@wfft.com](mailto:aparas@wfft.com)|260-408-WFFT|[news@wfft.com](mailto:news@wfft.com), [Contact Form](https://www.wfft.com/contact/)|
 
 ### Fort Wayne Bike and Treking Trails
