@@ -6,21 +6,21 @@
 
 |TV Station|Title|Linkedin Contact(or Other Contact)|Email|Phone|Station Contact Info|
 -----------|-----|----------------|-----|-----|--------------------|
-|PBS 39|Bruce Haines, General Mgr|[Staff Page](https://pbsfortwayne.org/about-pbs-fort-wayne/staff/)|[Programming email](mailto:programming@wfwa.org)|(260) 484-8839 toll-free: 888-484-8839|[Programming email](mailto:programming@wfwa.org)|
+|PBS 39|Bruce Haines, General Mgr|[Staff Page](https://pbsfortwayne.org/about-pbs-fort-wayne/staff/)|Programming email:[programming@wfwa.org](mailto:programming@wfwa.org)|(260) 484-8839 toll-free: 888-484-8839||
 |CBS Channel WANE 15|Jenna Huff, News Director|[Linkedin](https://www.linkedin.com/in/jenna-huff-5131a646)||260-481-1515|[About Us](https://www.wane.com/about-us/)|
 |NBC Channel WPTA 21|Jonathan Shelly, News Director|[Linkedin](https://www.linkedin.com/in/jonathan-shelley-269748b/)|[jshelley@wpta21.com](mailto:jshelley@wpta21.com)|260-483-8111|[Numerous Contacts](https://www.wpta21.com/about-us/contact-us/)|
 |WFFT FOX 55|Andy Paras, News Director|[Linkedin Contact](https://www.linkedin.com/in/andyparas)|[aparas@wfft.com](mailto:aparas@wfft.com)|260-408-WFFT|[news@wfft.com](mailto:news@wfft.com), [Contact Form](https://www.wfft.com/contact/)|
 
 ### Fort Wayne PBS 39 Station WFWA Leads 
 
-- Local PBS **Healthline** program [webpage](https://video.wfwa.org/show/healthline/). Healthline [email contact](mailto:healthline@wfwa.org). Program description:
+- Local PBS **Healthline** program [webpage](https://video.wfwa.org/show/healthline/). Healthline Email [healthline@wfwa.org](mailto:healthline@wfwa.org). Program description:
 
 > HealthLine is a fast paced show that keeps you informed of the latest developments in the worlds of medicine, health and wellness. Since 1996, this informative
   half-hour has featured local experts from diverse resources and backgrounds to put these developments and trends in to a local perspective. You can ask the [experts
   your health questions]{.underline} Tuesdays at 7:30, when the show is broadcast live.
 
 - Prime Time [webpage](https://video.wfwa.org/show/primetime39/). This area’s only in-depth, live, weekly news, analysis and cultural update forum, PrimeTime, airs Fridays at 7:30pm. 
-  [email](mailto:primetime39@wfwa.org)
+  [primetime39@wfwa.org](mailto:primetime39@wfwa.org)
 
 - Programming Ideas and feedback for locally produced documentaries and programs: [programming@wfwa.org](mailto:programming@wfwa.org)
 ### Fort Wayne Bike and Treking Trails
