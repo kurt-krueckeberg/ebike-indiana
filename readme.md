@@ -1,4 +1,4 @@
-# Ebike Prespective Contacts for Fort Wayne and South Bend
+# Ebike Prespective Contacts for Fort Wayne and South Bend/Mishawaka
 
 ## Fort Wayne
 
