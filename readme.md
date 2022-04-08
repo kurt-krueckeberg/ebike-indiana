@@ -2,7 +2,16 @@
 
 ## Fort Wayne
 
-### Fort Wayne PBS 39 Station WFWA 
+### Fort Wayne TV Stations
+
+|TV Station|Title|Linkedin Contact(or Other Contact)|Email|Phone|Station Contact Info|
+-----------|-----|----------------|-----|-----|--------------------|
+|PBS 39|Bruce Haines, General Mgr|[Staff Page](https://pbsfortwayne.org/about-pbs-fort-wayne/staff/)|[Programming email](mailto:programming@wfwa.org)|(260) 484-8839 toll-free: 888-484-8839|[Programming email](mailto:programming@wfwa.org)|
+|CBS Channel WANE 15|Janet Huff, News Director|[Linkedin](linkedin.com/in/jenna-huff-5131a646)||260-481-1515|[About Us](https://www.wane.com/about-us/)|
+|NBC Channel WPTA 21|Jonathan Shelly, News Director|[Linkedin](https://www.wane.com/about-us/)|[jshelley@wpta21.com](mailto:jshelley@wpta21.com)|260-483-8111|[Contact Us](https://www.wpta21.com/about-us/contact-us/)|
+|WFFT FOX 55|Andy Paras, News Director|[Linkedin Contact](linkedin.com/in/andyparas)|[aparas@wfft.com](mailto:aparas@wfft.com)|260-408-WFFT|[news@wfft.com](mailto:news@wfft.com), [Contact Form](https://www.wfft.com/contact/)|
+
+### Fort Wayne PBS 39 Station WFWA Leads 
 
 - Local PBS **Healthline** program [webpage](https://video.wfwa.org/show/healthline/). Healthline [email contact](mailto:healthline@wfwa.org). Program description:
 
@@ -14,16 +23,6 @@
   [email](mailto:primetime39@wfwa.org)
 
 - Programming Ideas and feedback for locally produced documentaries and programs: [programming@wfwa.org](mailto:programming@wfwa.org)
-
-### Other Fort Wayne TV Stations
-
-|TV Station|Title|Linkedin Contact(or Other Contact)|Email|Phone|Station Contact Info|
------------|-----|----------------|-----|-----|--------------------|
-|PBS 39|Bruce Haines, General Mgr|[Staff Page](https://pbsfortwayne.org/about-pbs-fort-wayne/staff/)|[Programming email](mailto:programming@wfwa.org)|(260) 484-8839 toll-free: 888-484-8839|[Programming email](mailto:programming@wfwa.org)|
-|CBS Channel WANE 15|Janet Huff, News Director|[Linkedin](linkedin.com/in/jenna-huff-5131a646)||260-481-1515|[About Us](https://www.wane.com/about-us/)|
-|NBC Channel WPTA 21|Jonathan Shelly, News Director|[Linkedin](https://www.wane.com/about-us/)|[jshelley@wpta21.com](mailto:jshelley@wpta21.com)|260-483-8111|[Contact Us](https://www.wpta21.com/about-us/contact-us/)|
-|WFFT FOX 55|Andy Paras, News Director|[Linkedin Contact](linkedin.com/in/andyparas)|[aparas@wfft.com](mailto:aparas@wfft.com)|260-408-WFFT|[news@wfft.com](mailto:news@wfft.com), [Contact Form](https://www.wfft.com/contact/)|
-
 ### Fort Wayne Bike and Treking Trails
 
 Fort Wayne has over 125 miles of biking and treking trails. They go through the city and through several parks as shown on this [map](http://www.fortwayneparks.org/images/stories/Rivergreenwaydoc/fort_wayne_area_trails_2020.pdf). 
