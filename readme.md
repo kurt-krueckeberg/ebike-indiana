@@ -4,7 +4,7 @@
 
 ### Fort Wayne TV Stations
 
-|TV Station|Title|Linkedin Contactor Other Contact|Email|Phone|Station Contact Info|
+|TV Station|Title|Linkedin Contact or Other Contact|Email|Phone|Station Contact Info|
 -----------|-----|----------------|-----|-----|--------------------|
 |PBS 39|Bruce Haines, General Mgr|[Staff Page](https://pbsfortwayne.org/about-pbs-fort-wayne/staff/)|Programming email:[programming@wfwa.org](mailto:programming@wfwa.org)|(260) 484-8839 toll-free: 888-484-8839||
 |CBS Channel WANE 15|Jenna Huff, News Director|[Linkedin](https://www.linkedin.com/in/jenna-huff-5131a646)||260-481-1515|[About Us](https://www.wane.com/about-us/)|
