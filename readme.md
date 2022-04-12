@@ -4,9 +4,9 @@
 
 ### Newspaper (there is only one)
 
-Journal Gazette is the only local newspaper. There is a morning print version. Most of its digital online content requires a subscription.
+The **Journal Gazette** is the only real local newspaper. It has a morning print version. Most of its online content requires a subscription.
 
-General contact [information page](https://www.journalgazette.net/Contact), which contains this information:
+The General contact [information page](https://www.journalgazette.net/Contact) contains these contacts:
 
 - Main newsroom e-mail: [jgnews@jg.net](jgnews@jg.net])
 
