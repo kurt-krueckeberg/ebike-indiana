@@ -2,6 +2,26 @@
 
 ## Fort Wayne
 
+### Newspaper (there is only one)
+
+Journal Gazette is the only local newspaper. There is a morning print version. Most of its digital online content requires a subscription.
+
+General contact [information page](https://www.journalgazette.net/Contact), which contains this information:
+
+- Main newsroom e-mail: [jgnews@jg.net](jgnews@jg.net])
+
+- Main newsroom phone number: **260-461-8773**
+
+- 24/7 news tip line: **260-466-NEWS (6397)**
+
+- Main newsroom fax number: **260-461-8648**
+
+- Find us on [Facebook](https://www.facebook.com/journalgazette)
+
+- Follow us on [Twitter](https://twitter.com/JGfortwayne)
+
+- Follow us on [Instagram](www.instagram.com/jgfortwayne)
+
 ### Fort Wayne TV Stations
 
 |TV Station|Title|Linkedin Contact or Other Contact|Email|Phone|Station Contact Info|
