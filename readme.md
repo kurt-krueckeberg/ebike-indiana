@@ -84,6 +84,10 @@ Fort Wayne has over 125 miles of biking and treking trails. They go through the 
 #### Elkhart
 
 - [Bike Elkhart](https://bikeelkhart.org)
+
+####
+
+- [Bike South Bend](http://www.bikemichiana.org)
   
 ## South Bend, Indiana
 
