@@ -71,6 +71,8 @@ Fort Wayne has over 125 miles of biking and treking trails. They go through the 
 
 ### Cycling and Fitness Organizations
 
+#### Fort Wayne
+
 - [Fort For Fitness](https://fort4fitness.org/)         Non-profit that promotes fitness in Fort Wayne.
 
   Facebook [page](https://www.facebook.com/Fort4Fitness)
@@ -79,9 +81,13 @@ Fort Wayne has over 125 miles of biking and treking trails. They go through the 
 
   Facebook [page](https://www.facebook.com/3riversvelosport/).
 
+#### Elkhart
+
+- [Bike Elkhart](https://bikeelkhart.org)
+  
 ## South Bend, Indiana
 
-**Note:** Mishwaka and South Bend are essential one single metroplex.
+**Note:** Mishwaka and South Bend are one metroplex.
 
 ### TV Statsion
 
@@ -91,3 +97,5 @@ Fort Wayne has over 125 miles of biking and treking trails. They go through the 
 |WSBT CBS 22 (Mishwawak/South Bend)|Meg Sauer, News Director|[Linkedin](https://www.linkedin.com/in/meg-sauer-24a33117/)|574-247-7749|[Contact Form](https://wsbt.com/stations/contact), Email: [wsbtnews@wsbt.com](wsbtnews@wsbt.com)|
 
 - [Notre Dame Cycling Club](https://recsports.nd.edu/club-sports/coed-club-sports/coed-cycling/) A coed competition cycling team that competes in the  Midwest Collegiate Cycling Conference.
+
+- [Bike South Bend](http://www.bikemichiana.org)
